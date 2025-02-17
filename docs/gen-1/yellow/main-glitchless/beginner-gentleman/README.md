@@ -1,4 +1,4 @@
-# Pokemon Yellow Glitchless Route (2020 IB Route)
+# Pokemon Yellow Glitchless Beginner Route
 
 - ## Manip Quick Reference
   - [Nido Manip](../resources/nido-manip.md)
@@ -8,6 +8,9 @@
 - [Defensive Ranges](../resources/2020-ib-defensive-ranges.md)
 
 **All damage ranges in these notes include 1/39**
+
+## Notes
+This game does not have very many beginner strats. This route buys extra healing items and also gets the gentleman candy to help with some ranges. It is recommended to save for dangerous fights such as Misty, Surge, Koga, Blaine, Giovanni 2, Lance, and Champ.
 
 ## Before New Game
 - Set Options to Fast Text, Battle Animations Off, Battle Style Set
@@ -19,7 +22,8 @@
 
 ## Rival Fight
 - Thundershock spam
-- For this route, you must win this fight
+- For this route it doesn't matter if you win or lose the Rival battle
+- If you do lose, you will be on "vape" (Vaporeon) strats, so keep an eye out for those
 
 ## Nidoran
 - Walk up Route 1 and enter mart to get Oak's Parcel
@@ -30,8 +34,8 @@
 
 - Mart:
   - Buy:
-    - 2 Poke Balls
-    - 5 Potions
+    - 5 Poke Balls (4 if Vape)
+    - 7 Potions (5 if Vape)
     > If not confident with yoloballs, you can buy more but remember to either cut a Super Potion or do Gentleman later
 - Go through the Old Man catching tutorial
 - Save on [this tile](https://gunnermaniac.com/pokeworld?map=1#57/141) (MAKE SURE YOU STOP MOVING BEFORE OPENING THE PAUSE MENU, THE SAVE MUST BE UNBUFFERED)
@@ -337,7 +341,7 @@
     - 2F: Buy TM07 then 10 Super Repels and 4 Super Potions
     - 4F: Buy Poke Doll
     - 6F: Buy a Fresh Water and a Soda Pop, trade them both for Rock Slide and Ice Beam, then buy another Fresh Water
-    - 5F: Buy 11 X Accuracy, 4 X Speeds, 3 X Attacks and 4 X Specials
+    - 5F: Buy 11 X Accuracy (12 if Vape), 4 X Speeds, 3 X Attacks and 4 X Specials (3 if Vape)
 - Take Elevator to 1F
 - Bike to Fly House - including the short section at the end to the house
 - Talk to girl to get HM02 (Fly)
